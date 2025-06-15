@@ -21,6 +21,3 @@ Analyze employee attrition trends across departments, gender, job roles, and oth
 - Income distribution (Histogram)
 - Dynamic filters (Gender, Job Role, Education Field, Marital Status)
 - Clean and professional layout for business presentation
-
-## 📷 Screenshots
-![Dashboard Preview](screenshots/dashboard_view.png)
